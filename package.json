@@ -1,9 +1,9 @@
  "name": "LMCMusicBOT",
   "description": "Ezzel zenét tudsz elindítani.",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "LMCMusicBOT.js",
   "scripts": {
-    "start": "node LMCMusicBOT.js"
+    "start": "LMCMusicBOT.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
