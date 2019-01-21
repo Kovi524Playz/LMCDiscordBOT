@@ -1,1 +1,1 @@
-worker: node bot.js LMCMusicBOT
+worker: node LMCmusicBOT.js 
